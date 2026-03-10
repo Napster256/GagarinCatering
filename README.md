@@ -1,6 +1,6 @@
 # GagarinCatering
 
-![GagarinCatering Preview](img/astronaut.jpg)
+![GagarinCatering Preview](img/astronaut_1024.jpg)
 
 Одностраничный сайт корпоративного кейтеринга с фронтендом на HTML/CSS/JavaScript и серверной обработкой на PHP.
 
